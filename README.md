@@ -1,2 +1,0 @@
-# sidekicks-authentication-testing
-testing
